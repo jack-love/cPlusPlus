@@ -4,7 +4,7 @@
 extern int  writetty(unsigned char * buffer , int len);
 
 
-extern  int ext;
+extern  const int ext;
 
 int main(void)
 {
