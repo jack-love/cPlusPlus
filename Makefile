@@ -1,4 +1,4 @@
 all:
-	  gcc test.cpp main.cpp  -lpthread  -o  my-c 
+	  gcc tty.cpp  main.cpp  -lpthread  -o  my-c.exe 
 clean:
 	rm my-c.exe
