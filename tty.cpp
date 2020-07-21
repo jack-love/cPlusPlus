@@ -1,7 +1,7 @@
 
 #include "tty.h"
 #include <stdio.h>
- const int ext=10;
+ extern const int ext=10;
 
 int writetty(unsigned char * buffer , int len)
 {
