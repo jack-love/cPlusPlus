@@ -1,4 +1,3 @@
-/**/
 #include "tty.h"
 /*
 
